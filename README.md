@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shalu </h1>
-<h3 align="center">A passionate learner. <h3>
+
 
 
 <p align="left">
